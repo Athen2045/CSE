@@ -25,3 +25,51 @@ elif opt == 3:
     print("Temp in Celsius", cel);
 else:
     print("Wrong Option");
+
+
+''' fStep 1: Start
+Step 2: Display a welcome message
+    → Print "Hi!! Welcome to Simple Interest Calculator"
+Step 3: Input the principal amount
+    → Prompt user to enter the principal amount
+    → Store input as prc (float)
+Step 4: Input the rate of interest
+    → Prompt user to enter the rate (%)
+    → Store input as rat (float)
+Step 5: Input the time period in months
+    → Prompt user to enter time in months
+    → Store input as tim (float)
+Step 6: Calculate simple interest using the formula
+    → simpl = (prc * rat * tim) / 100
+Step 7: Round the result to two decimal places
+    → interest = round(simpl, 2)
+Step 8: Display the calculated simple interest
+    → Print "Simple Interest: ", interest
+Step 9: End 
+
+
+### Step 1: Start 
+Step 2: Display a welcome message
+    → Print "Welcome! Temperature Conversion from C to F"
+Step 3: Input temperature in Celsius 
+    → Prompt user to enter the Celsius value
+    → Store input as cel (float)
+Step 4: Convert Celsius to Fahrenheit using the formula
+    → fah = (cel × 9/5) + 32
+Step 5: Display the result in Fahrenheit
+    → Print "Temp in Fahrenheit", fah
+Step 6: End
+
+
+Step 1: Start
+Step 2: Display a welcome message
+    → Print "Welcome! Temperature Conversion from C to F"
+Step 3: Input temperature in Celsius
+    → Prompt user to enter the Celsius value
+    → Store input as cel (float)
+Step 4: Convert Celsius to Fahrenheit using the formula
+    → fah = (cel × 9/5) + 32
+Step 5: Display the result in Fahrenheit
+    → Print "Temp in Fahrenheit", fah
+Step 6: End
+'''  
